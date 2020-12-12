@@ -11,6 +11,6 @@
       <RowConstraints />
    </rowConstraints>
    <children>
-      <Button fx:id="btnMain" mnemonicParsing="false" onAction="#btnPress" prefHeight="62.0" prefWidth="95.0" text="Bottone!" />
+      <Button fx:id="btnMain" mnemonicParsing="false" onAction="#btnPress" prefHeight="62.0" prefWidth="95.0" text="Cambia scena" />
    </children>
 </GridPane>
